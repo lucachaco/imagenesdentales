@@ -4,16 +4,16 @@
 baseurl: 
 
 # Site live URL
-url: http://gayan.me
+url:
 
 # Localhost 
 # url: http://127.0.0.1:4000  
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Harmony
+  name: Imágenes Dentales
   # Little description about your site
-  description: Harmony is free responsive jekyll theme.
+  description: Descripción del sitio
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
@@ -23,9 +23,9 @@ harmony:
    https://github.com/gayanvirajith/harmony
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Gayan Virajith
-    email: gayanvirajith@gmail.com
-    url: http://gayanvirajith.github.io
+    name: lucachaco
+    email: luiscarlosch@gmail.com
+    url: www.sourcequarter.com
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
@@ -34,7 +34,7 @@ harmony:
   social: 
     github: gayanvirajith
     twitter: gayanvirajith
-    facebook: gayanvirajith
+    facebook: imagenesdentales
     gplus: +GayanVirajith
     dribble: gayan
     pinterest: 

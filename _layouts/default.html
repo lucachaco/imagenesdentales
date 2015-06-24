@@ -26,9 +26,10 @@
     <body class="{{ site.harmony.basetheme }}">
         <header class="main-header">
             <div class="wc-container">
-                <img src="/assets/img/logo.png" alt="Imagenes Dentales Logo" >
-                <h1><a href="{{ site.baseurl }}/">{{ site.harmony.name }}</a></h1>
-                <h2>{{ site.harmony.description }}</h2>
+                <a href="/">
+                    <img src="/assets/img/logo.png" alt="{{ site.harmony.name }}"  style="display: block;margin-left: auto; margin-right: auto; width: 300px;">
+                </a>
+                <!--<h2>{{ site.harmony.description }}</h2>-->
                 {% include header-links.html %}                
             </div>
         </header>
